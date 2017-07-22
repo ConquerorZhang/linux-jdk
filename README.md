@@ -1,5 +1,6 @@
 # linux-jdk
 linux安装jdk
+
 CentOS下jdk的安装（安装hadoop教程装的是tar包格式的）
 mkdir /export/software 创建安装包的目录
 Jdk的安装包拷贝在了目录/export/software下
